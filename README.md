@@ -2,10 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 #### I'm not just a coder; I'm someone who thrives on the challenge of solving problems and bringing innovative ideas to life. With a knack for clear communication and a love for elegant code, I navigate the ever-evolving tech landscape with confidence and curiosity. Let's explore this dynamic realm together and craft a future where technology truly empowers humanity!
-
+---
+[![](https://visitcount.itsvg.in/api?id=shreya6323&icon=0&color=0)](https://visitcount.itsvg.in)
 #### * ✉️  You can contact me at [gandhishreya311@gmail.com](mailto:gandhishreya311@gmail.com)
 #### * 🤝  I'm open to collaborating on innovative Projects, Tech Solutions, and Future-Forward Ventures
 #### * ⚡  Beyond coding, I'm an avid traveler who loves exploring new destinations and experiencing diverse cultures.
+<br/>
 
 ## 💻 Skills
 <p align="left">
@@ -15,18 +17,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 </p>
 
+<br/>
 
 ## 💬 Socials
-
 <p align="left">
-<a href="https://linkedin.com/in/sdfdsfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdfdsfs" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dfdsf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dfdsf" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fdsfds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fdsfds" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreya-gandhi-b3a046254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdfdsfs" height="30" width="40" /></a>
+<a href="https://leetcode.com/Shrey_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fdsfds" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/IT029_Shreya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dfdsf" height="30" width="40" /></a>
 </p>
-
----
-[![](https://visitcount.itsvg.in/api?id=shreya6323&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<br/>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shreya6323&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
@@ -37,6 +36,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shreya6323&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
+<br/>
+<br/>
 ## Thank you for swinging by 🙏 
