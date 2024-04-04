@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shreya Gandhi
 =====================================================================================================================================
 
-I'm not just a coder; I'm someone who thrives on the challenge of solving problems and bringing innovative ideas to life. With a knack for clear communication and a love for elegant code, I navigate the ever-evolving tech landscape with confidence and curiosity. Let's explore this dynamic realm together and craft a future where technology truly empowers humanity!
+#### I'm not just a coder; I'm someone who thrives on the challenge of solving problems and bringing innovative ideas to life. With a knack for clear communication and a love for elegant code, I navigate the ever-evolving tech landscape with confidence and curiosity. Let's explore this dynamic realm together and craft a future where technology truly empowers humanity!
 
-* ✉️  You can contact me at [gandhishreya311@gmail.com](mailto:gandhishreya311@gmail.com)
-* 🤝  I'm open to collaborating on innovative Projects, Tech Solutions, and Future-Forward Ventures
-* ⚡  Beyond coding, I'm an avid traveler who loves exploring new destinations and experiencing diverse cultures.
+#### * ✉️  You can contact me at [gandhishreya311@gmail.com](mailto:gandhishreya311@gmail.com)
+#### * 🤝  I'm open to collaborating on innovative Projects, Tech Solutions, and Future-Forward Ventures
+#### * ⚡  Beyond coding, I'm an avid traveler who loves exploring new destinations and experiencing diverse cultures.
 
 ### Skills
 <p align="left">
