@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 [![](https://visitcount.itsvg.in/api?id=shreya6323&icon=0&color=0)](https://visitcount.itsvg.in)
 #### * ✉️  You can contact me at [gandhishreya311@gmail.com](mailto:gandhishreya311@gmail.com)
-#### * 🤝  I'm open to collaborating on innovative Projects, Tech Solutions, and Future-Forward Ventures
+#### * 🤝  I'm open to collaborating on innovative Projects, Tech Solutions, and Future-Forward Ventures.
 #### * ⚡  Beyond coding, I'm an avid traveler who loves exploring new destinations and experiencing diverse cultures.
 <br/>
 
